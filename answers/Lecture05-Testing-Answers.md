@@ -1,4 +1,4 @@
-# Lecture 05 — Testing (p13–17) — Answers
+# Lecture 05 - Testing (p13–17) — Answers
 
 ## 1) Trắc nghiệm
 - C1. B — Đảm bảo phần mềm đáp ứng đúng yêu cầu (mục tiêu kiểm thử nêu rõ “đúng như yêu cầu của khách hàng”).
@@ -25,7 +25,7 @@ Xác nhận hệ thống đáp ứng yêu cầu người dùng/khách hàng đ�
 4. Hoạt động chính của kiểm thử phi thực thi:
 Walkthrough, Inspection, Review (soát lỗi trên tài liệu: yêu cầu, thiết kế, HDSD).
 
-5.Vì sao phải làm tài liệu mỗi pha?
+5. Vì sao phải làm tài liệu mỗi pha?
 Để rõ ràng, dễ phát triển, thuận tiện bảo trì về sau.
 
 6. Quản lý phiên bản tài liệu là gì?
@@ -43,7 +43,7 @@ Phân tích yêu cầu/phạm vi, xác định công việc & ưu tiên, quản 
 10. Làm tài liệu kiểm thử gồm gì?
 Kế hoạch kiểm thử và báo cáo kết quả kiểm thử.
 
-## 3) Thảo luận nhóm (ý chính)
+## 3) Thảo luận nhóm 
 1) Vai trò SQA: đảm bảo quy trình tuân chuẩn; độc lập đánh giá chất lượng; thúc đẩy cải tiến quy trình.
 
 2) Unit vs Integration: Unit cô lập hàm/lớp; Integration kiểm tra giao tiếp giữa các module; phạm vi & dữ liệu test khác nhau.
@@ -64,7 +64,7 @@ Kế hoạch kiểm thử và báo cáo kết quả kiểm thử.
 
 10) Quản lý chất lượng cho dự án lớn: SQA độc lập, checklist chuẩn hoá, tự động hoá test, quản lý rủi ro liên tục.
 
-## 4) Tình huống (hướng xử lý ngắn gọn)
+## 4) Câu hỏi Tình huống 
 1) Trước bàn giao, KH yêu cầu kiểm tra lại toàn bộ tài liệu yêu cầu/thiết kế:
 • Lập danh sách tài liệu & phiên bản; khoá phiên bản để rà soát. • Tổ chức review/inspection tập trung. • Ghi biên bản thay đổi & cập nhật kho phiên bản (Git/SVN).
 
